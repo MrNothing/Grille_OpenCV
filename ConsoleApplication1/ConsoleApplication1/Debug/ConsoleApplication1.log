@@ -1,0 +1,61 @@
+﻿La génération a démarré 01/07/2014 22:55:09.
+     1>Projet "C:\Users\Boris\Documents\Cours\Boids OpenGL\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication1.cpp
+         ConsoleApplication1.cpp
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(178): warning C4305: 'initialisation' : troncation de '__int64' à 'int'
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(178): warning C4309: 'initialisation' : troncation de valeur de constante
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(200): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(205): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(213): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(225): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(251): warning C4018: '>' : incompatibilité signed/unsigned
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(253): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(254): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(285): warning C4305: 'initialisation' : troncation de '__int64' à 'float'
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(288): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(297): warning C4305: '=' : troncation de '__int64' à 'float'
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(300): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(309): warning C4305: '=' : troncation de '__int64' à 'float'
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(312): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(320): warning C4305: '=' : troncation de '__int64' à 'float'
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(323): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(380): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(433): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(434): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(458): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(458): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(462): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(462): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(538): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(539): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(540): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(626): warning C4244: '+=' : conversion de 'float' en 'uchar', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(627): warning C4244: '+=' : conversion de 'float' en 'uchar', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(628): warning C4244: '+=' : conversion de 'float' en 'uchar', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(818): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(836): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(861): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(862): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(863): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(864): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(880): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(881): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(882): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(883): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(885): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(902): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(907): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(908): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(918): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\boris\documents\cours\boids opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(919): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Boris\Documents\Cours\Boids OpenGL\ConsoleApplication1\Debug\ConsoleApplication1.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\Users\Boris\Downloads\OpenCV\opencv\build\x86\vc12\lib opencv_core248d.lib opencv_imgproc248d.lib opencv_highgui248d.lib opencv_video248d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Boris\Documents\Cours\Boids OpenGL\ConsoleApplication1\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Boris\Documents\Cours\Boids OpenGL\ConsoleApplication1\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\ConsoleApplication1.obj
+         Debug\stdafx.obj
+     1>ConsoleApplication1.obj : warning LNK4075: ' /EDITANDCONTINUE' ignoré à cause de la spécification '/OPT:LBR'
+         ConsoleApplication1.vcxproj -> C:\Users\Boris\Documents\Cours\Boids OpenGL\ConsoleApplication1\Debug\ConsoleApplication1.exe
+     1>Génération du projet "C:\Users\Boris\Documents\Cours\Boids OpenGL\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:03.13
